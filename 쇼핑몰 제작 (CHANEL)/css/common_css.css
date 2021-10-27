@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+a:hover{color:#000;}
+a:link{color: #000;}
+a:visited{color:#000;}
+a:active{color:#000}
+
+header{width:1200px; height: 150px; margin:0 auto;}
+#logo{ width:235px; height:98px; margin:0 auto; font-size:50px; font-weight: bold; font-family:couture;}
+nav{ width:730px; height: 60px; margin:0 auto;}
+nav ul{font-family: couture;}
+nav ul li{float:left; padding:0 45px; font-size:20px;}
+nav ul li:hover {color:#aaa; cursor: pointer;}
+
+footer{width:100%; height: 500px; margin: 0 auto; background-color: #000;}
+
+footer ul li{color: #fff; cursor: pointer;}
+footer ul li:hover{color:#ccc;}
+.bot_me_ch{width: 600px; height: 300px; font-size: 15px; font-weight: bold; color:#fff; margin:0px 0 0 180px; text-align: left; display:block; padding: 30px 0 0 0;}
+.bot_me_ch p{text-align: center; font-size:18px;}
+.det{padding:0 0 0 110px;}
+.det:first-of-type{margin:30px 0 0 0;}
+.det li{margin:10px 0 0 10px;}
+.del{margin:-150px 0 0 420px; padding: 0 0 200px 0;}
+.del li{margin: 10px 0 0 10px;}
+.onl_g{font-size: 15px; font-weight: bold; color:#fff;  width:400px; height: 250px;  text-align: left; display: block; margin: -265px 0 0 1200px;}
+.onl_g p{font-size: 18px;}
+.on_li:first-of-type{margin:30px 0 0 0;}
+.on_li li{margin: 10px 0 0 10px;}
+.bot_logo{width: 208px; height: 170px; margin: 0 auto;}
+.bot_logo img {width:100%; height:100%; margin: 0 auto; ; display: block;}
+.imc{width: 150px; height: 35px; float:right;  margin: 0 0 -30px 0;}
+.imc img{width: 30px; height: 30px; cursor: pointer;}
+.imc img[alt="facebook"]{margin: 0 0 0 5px;}
