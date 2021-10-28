@@ -18,6 +18,9 @@ body a:active{color:#000;}
 .no_5{position: relative; top:300px;}
 .no_5 img{ border: 4px #000 solid;}
 
+#bot_banner{width:100%; height: 650px; margin: 100px 0;}
+#bot_banner img{width:100%; height: 100%; cursor: pointer;}
+
 
 .Best{width:1200px; height: 900px; margin: 0 auto; text-align: center; font-weight: bold;}
 .Best h1{font-family: couture; font-size:40px;}
@@ -39,5 +42,3 @@ body a:active{color:#000;}
 .on{margin:0 35px 0 35px;}
 .on img{margin: 0 0 0 -10px;}
 
-#bot_banner{width:100%; height: 650px; margin: 100px 0;}
-#bot_banner img{width:100%; height: 100%; cursor: pointer;}
