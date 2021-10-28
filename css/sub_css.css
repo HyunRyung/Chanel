@@ -32,52 +32,52 @@ hr{width:1200px; margin: 0 auto; border-radius: 15px;}
 .detail img{width: 500px; height: 100%; float: left;}
 
 .ga_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.ga_detail_1{position: relative; top: 100px;}
-.ga_detail_2{position: relative; top: 200px;}
+.ga_detail_1{position: relative; top: 100px; left: 50px;}
+.ga_detail_2{position: relative; top: 200px; right: 50px;}
 .ga_detail_2 img{float: right;}
-.ga_detail_3{position: relative; top: 300px;}
+.ga_detail_3{position: relative; top: 300px; left:25px;}
 
 .no5_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.no5_detail_1{position: relative; top: 100px;}
-.no5_detail_2{position: relative; top: 200px;}
+.no5_detail_1{position: relative; top: 100px; left:50px;}
+.no5_detail_2{position: relative; top: 200px; right: 50px;}
 .no5_detail_2 img{float: right;}
-.no5_detail_3{position: relative; top: 300px;}
+.no5_detail_3{position: relative; top: 300px; left:25px;}
 
 .mademosielle_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.mademosielle_detail_1{position: relative; top: 100px;}
-.mademosielle_detail_2{position: relative; top: 200px;}
+.mademosielle_detail_1{position: relative; top: 100px;  left:50px;}
+.mademosielle_detail_2{position: relative; top: 200px; right: 50px;}
 .mademosielle_detail_2 img{float: right;}
-.mademosielle_detail_3{position: relative; top: 300px;}
+.mademosielle_detail_3{position: relative; top: 300px; left: 25px;}
 
 .edimbourg_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.edimbourg_detail_1{position: relative; top: 100px;}
-.edimbourg_detail_2{position: relative; top: 200px;}
+.edimbourg_detail_1{position: relative; top: 100px; left: 50px;}
+.edimbourg_detail_2{position: relative; top: 200px; right: 50px;}
 .edimbourg_detail_2 img{float: right;}
-.edimbourg_detail_3{position: relative; top: 300px;}
+.edimbourg_detail_3{position: relative; top: 300px;  left: 25px;}
 
 .chance_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.chance_detail_1{position: relative; top: 100px;}
-.chance_detail_2{position: relative; top: 200px;}
+.chance_detail_1{position: relative; top: 100px;  left: 50px;}
+.chance_detail_2{position: relative; top: 200px; right: 50px; }
 .chance_detail_2 img{float: right;}
-.chance_detail_3{position: relative; top: 300px;}
+.chance_detail_3{position: relative; top: 300px;  left: 25px;}
 
 .lelion_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.lelion_detail_1{position: relative; top: 100px;}
-.lelion_detail_2{position: relative; top: 200px;}
+.lelion_detail_1{position: relative; top: 100px;  left: 50px;}
+.lelion_detail_2{position: relative; top: 200px; right: 50px;}
 .lelion_detail_2 img{float: right;}
-.lelion_detail_3{position: relative; top: 300px;}
+.lelion_detail_3{position: relative; top: 300px;  left:25px;}
 
 .bled_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.bled_detail_1{position: relative; top: 100px;}
-.bled_detail_2{position: relative; top: 200px;}
+.bled_detail_1{position: relative; top: 100px; left:50px;}
+.bled_detail_2{position: relative; top: 200px; right: 50px;}
 .bled_detail_2 img{float: right;}
-.bled_detail_3{position: relative; top: 300px;}
+.bled_detail_3{position: relative; top: 300px;  left:25px;}
 
 .in_detail>div{width:1000px; height: 500px; margin: 0 auto;}
-.in_detail_1{position: relative; top: 100px;}
-.in_detail_2{position: relative; top: 200px;}
+.in_detail_1{position: relative; top: 100px;  left:50px;}
+.in_detail_2{position: relative; top: 200px; right: 50px;}
 .in_detail_2 img{float: right;}
-.in_detail_3{position: relative; top: 300px;}
+.in_detail_3{position: relative; top: 300px;  left:25px;}
 .in_deta_text_3{width:500px; height: 500px; float: right; font-size: 12px;}
 .in_deta_text_3 h1{font-size: 32px;}
 

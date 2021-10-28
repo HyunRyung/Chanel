@@ -4,18 +4,6 @@ body a:link{color:#000;}
 body a:visited{color:#000;}
 body a:active{color:#000;}
 
-.common_detail{width: 100%; height: 500px; color: #aaa; font-size: 14px;}
-.common_detail a:link,a:visited{color:#aaa; font-weight: bold;}
-.common_detail a:hover{color:#000;}
-.common_detail span{font-weight: bold; color:#000;}
-.ask{width: 350px; height: 180px; position: relative; top: 100px; left: 450px;}
-.b_seach{width: 300px; height: 120px; position: relative; left: 1020px; bottom: 80px;}
-.b_seach button{width: 30px; height: 30px; position: relative; float: right; right: 50px;}
-.b_seach img{width: 30px; height: 30px; border:none;}
-input ::placeholder{color:#eee;}
-input{color:#000; border:none;}
-input:focus {outline:none;}
-.add{width:800px; height: 150px; position: relative; left: 450px;}
 
 
 #top_banner{width: 100%; height: 800px ;}
@@ -26,14 +14,14 @@ input:focus {outline:none;}
 .event div{width:1000px; height: 500px; margin: 0 auto;}
 .see_detail{width: 150px; height: 50px; background-color: #fff; font-weight: bold;}
 .see_detail:hover{background-color: black; color: #fff;}
-.season{position: relative; top: 100px;}
-.special{position: relative; top:200px;}
+.season{position: relative; top: 100px; right: 50px;}
+.special{position: relative; top:200px; left: 50px;}
 .special img{float: right; border: 4px #000 solid;}
-.no_5{position: relative; top:300px;}
+.no_5{position: relative; top:300px; right: 25px;}
 .no_5 img{ border: 4px #000 solid;}
 
 #bot_banner{width:100%; height: 650px; margin: 100px 0;}
-#bot_banner img{width:100%; height: 100%; cursor: pointer;}
+#bot_banner img{width:100%; height: 100%;}
 
 
 .Best{width:1200px; height: 900px; margin: 0 auto; text-align: center; font-weight: bold;}

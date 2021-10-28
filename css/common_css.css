@@ -17,17 +17,17 @@ nav ul li a:hover{color:#aaa; cursor: pointer;}
 nav ul li a:active{color:#000;}
 
 .common_detail{width: 1000px; height: 300px; color: #aaa; font-size: 14px; border-top: 1px solid #000; margin: 0 auto; padding: 10px 0 0 0;}
-.common_detail a:link,a:visited{color:#aaa; font-weight: bold;}
+.common_detail a:link{color:#aaa; font-weight: bold;}
+.common_detail a:visited{color:#aaa;}
 .common_detail a:hover{color:#000;}
 .common_detail span{font-weight: bold; color:#000;}
 .ask{width: 350px; height: 180px; margin: 0 auto; float: left;}
-.b_seach{width: 300px; height: 120px; margin: 0 auto; float: right;}
-.b_seach button{width: 30px; height: 30px; float: right;}
+.b_seach{width: 300px; height: 150px; margin: 0 auto; float: right;}
+.b_seach button{width: 30px; height: 30px; float: right; border: none; margin: -10px 60px 0 0;}
 .b_seach img{width: 30px; height: 30px; border:none;}
-input ::placeholder{color:#eee;}
-input{color:#000; border:none;}
-input:focus {outline:none;}
-.add{width:800px; height: 150px; margin: 0 auto; float: left;}
+input{color:#000; border:none; border-bottom:1px solid #aaa; margin: 0 0 0 15px;}
+input:focus {outline:none; transform: scaleX(120%);  transition:1s;}
+.add{width:800px; height: 150px; margin: 0 auto; float: left; }
 
 
 footer{width:100%; height: 500px; margin: 0 auto; background-color: #000; position: relative;}
