@@ -26,7 +26,7 @@ nav ul li a:active{color:#000;}
 .b_seach button{width: 30px; height: 30px; float: right; border: none; margin: -10px 60px 0 0;}
 .b_seach img{width: 30px; height: 30px; border:none;}
 input{color:#000; border:none; border-bottom:1px solid #aaa; margin: 0 0 0 15px;}
-input:focus {outline:none; transform: scaleX(120%);  transition:1s;}
+input:focus {outline:none; transform: scaleX(1.2);  transition:0.7s;}
 .add{width:800px; height: 150px; margin: 0 auto; float: left; }
 
 
