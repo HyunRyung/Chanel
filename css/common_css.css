@@ -30,25 +30,10 @@ input:focus {outline:none; transform: scaleX(1.2);  transition:0.7s;}
 .add{width:800px; height: 150px; margin: 0 auto; float: left; }
 
 
-footer{width:100%; height: 500px; margin: 0 auto; background-color: #000; position: relative;}
-footer ul li a{color: #fff; cursor: pointer;}
-footer ul li a:visited{color:#fff;}
-footer ul li a:hover{color:#aaa;}
-footer ul li a:active{color:#fff;}
 
-.bot_me_ch{width: 600px; height: 300px; font-size: 15px; font-weight: bold; color:#fff; margin:0 auto; text-align: left; display:block; position: relative; top:30px; left: -500px;}
-.bot_me_ch p{text-align: center; font-size:18px; margin:30px 0 0 0;}
-.det{padding:0 0 0 110px;}
-.det:first-of-type{margin:30px 0 0 0;}
-.det li{margin:10px 0 0 10px;}
-.del{margin:-150px 0 0 420px; padding: 0 0 200px 0;}
-.del li{margin: 10px 0 0 10px;}
-.onl_g{font-size: 15px; font-weight: bold; color:#fff;  width:400px; height: 250px;  text-align: left; display: block; margin: 0 auto; position: relative ; top:-265px; left: 550px;}
-.onl_g p{font-size: 18px;}
-.on_li:first-of-type{margin:30px 0 0 0;}
-.on_li li{margin: 10px 0 0 10px;}
-.bot_logo{width: 208px; height: 170px; margin: 0 auto; position:relative; top: -240px;} 
+
+.bot_logo{width: 208px; height: 170px; margin: 0 auto; position:relative; top:-50px} 
 .bot_logo img {width:100%; height:100%; margin: 0 auto; ; display: block;}
-.imc{width: 150px; height: 35px; float:right;  margin: 0 auto; position: relative; top:-270px; right: 5px;}
+.imc{width: 150px; height: 35px; float:right;  margin: 0 auto; position: relative; top:-40px}
 .imc img{width: 30px; height: 30px; cursor: pointer;}
 .imc img[alt="facebook"]{margin: 0 0 0 5px;}
